@@ -3,9 +3,7 @@
 Web Developer
 
 Contact Information:
-gordiienko.taras@gmail.com
-+38(097)767-13-23
-https://www.linkedin.com/in/gordiienko/
+<gordiienko.taras@gmail.com>, +38(097)767-13-23, <https://www.linkedin.com/in/gordiienko/>
 
 ## Summary
 
